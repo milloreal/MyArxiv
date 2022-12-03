@@ -1,4 +1,4 @@
-name: AlongWY/ArxivDaily
+name: milloreal/MyArxiv
 
 on:
   workflow_dispatch:
