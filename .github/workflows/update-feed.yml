@@ -1,4 +1,4 @@
-name: milloreal/MyArxiv
+name: MyArxiv
 
 on:
   workflow_dispatch:
